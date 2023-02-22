@@ -1,10 +1,3 @@
-# 认真写作业的electron版
-本来这玩意昨晚就搞好了，但是傻逼git出问题了（）<br>
-调试：
-````
-npm start
-````
-打包：
-````
-npm packager
-````
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef02145d470508d96569fbd8b1e34cfd0e2d35ed073c03d36a16d81694d06f17
+size 179
