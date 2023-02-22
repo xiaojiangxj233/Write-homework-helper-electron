@@ -8,3 +8,4 @@ npm start
 ````
 npm packager
 ````
+由于github desktop有些傻逼毛病，源码可能不是最新的
