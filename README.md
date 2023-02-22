@@ -4,3 +4,7 @@
 ````
 npm start
 ````
+打包：
+````
+npm packager
+````
